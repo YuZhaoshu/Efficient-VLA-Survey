@@ -330,5 +330,4 @@ Email: yuzhaoshu@gmail.com
 
 ## Star History
 
-[[![Star History Chart](https://www.star-history.com/?type=date&legend=top-left&repos=YuZhaoshu%2FEfficient-VLAs-Survey)]
-](https://www.star-history.com/?repos=YuZhaoshu%2FEfficient-VLAs-Survey&type=date&legend=top-left)
+[[![Star History Chart](https://www.star-history.com/?type=date&legend=top-left&repos=YuZhaoshu%2FEfficient-VLAs-Survey)]](https://www.star-history.com/?repos=YuZhaoshu%2FEfficient-VLAs-Survey&type=date&legend=top-left)
