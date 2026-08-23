@@ -166,6 +166,8 @@ Fig. 3: Key strategies for **Model Compression** in VLAs. We illustrate three pr
 | 2025 | arXiv | [BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation](https://arxiv.org/abs/2506.07530) | - | [💻](https://github.com/ustcwhy/BitVLA) |
 | 2026 | RA-L | [RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models](https://arxiv.org/abs/2506.17639) | [🌐](https://rlrc-vla.github.io/) | [💻](https://github.com/LxRoboticsLab/RLRC) |
 | 2025 | arXiv | [SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models](https://arxiv.org/abs/2509.09090) | - | [💻](https://github.com/ecdine/SQAP-VLA) |
+| 2026 | ICLR | [QVLA: Not All Channels Are Equal in Vision-Language-Action Model's Quantization](https://arxiv.org/abs/2602.03782) | - | [💻](https://github.com/AutoLab-SAI-SJTU/QVLA) |
+| 2026 | CVPR | [QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models](https://arxiv.org/abs/2602.20309) | [🌐](https://quantvla.github.io/) | [💻](https://github.com/AIoT-MLSys-Lab/QuantVLA) |
 
 ##### Token Optimization
 | Year | Venue | Paper | Website | Code |
