@@ -117,6 +117,7 @@ Fig. 2: Key strategies for **Efficient Architectures** in VLAs. We illustrate si
 | 2025 | arXiv | [MiniVLA: A Better VLA with a Smaller Footprint](https://ai.stanford.edu/blog/minivla/) | [🌐](https://ai.stanford.edu/blog/minivla/) | - |
 | 2026 | arXiv | [PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](https://arxiv.org/abs/2604.20834) | [🌐](https://getterupper.github.io/PokeVLA) | - |
 | 2026 | arXiv | [DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation](https://arxiv.org/abs/2601.22153) | [🌐](https://haozhexie.com/project/dynamic-vla) | [💻](https://github.com/hzxie/DynamicVLA) |
+| 2026 | arXiv | [Lite VLA: Efficient Vision-Language-Action Control on CPU-Bound Edge Robots](https://arxiv.org/abs/2511.05642) | - | - |
 
 ##### Mixture-of-Experts
 | Year | Venue | Paper | Website | Code |
@@ -135,6 +136,9 @@ Fig. 2: Key strategies for **Efficient Architectures** in VLAs. We illustrate si
 | 2025 | arXiv | [Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning](https://arxiv.org/abs/2506.01953) | [🌐](https://fast-in-slow.github.io/) | [💻](https://github.com/CHEN-H01/Fast-in-Slow) |
 | 2025 | arXiv | [MinD: Learning A Dual-System World Model for Real-Time Planning and Implicit Risk Analysis](https://arxiv.org/abs/2506.18897) | [🌐](https://manipulate-in-dream.github.io/) | [💻](https://github.com/manipulate-in-dream/MinD) |
 | 2026 | CVPR | [Global Prior Meets Local Consistency: Dual-Memory Augmented Vision-Language-Action Model for Efficient Robotic Manipulation](https://arxiv.org/abs/2602.20200) | [🌐](https://cybertronagent.github.io/OptimusVLA.github.io/) | [💻](https://github.com/JiuTian-VL/OptimusVLA) |
+| 2025 | arXiv | [Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation](https://arxiv.org/abs/2512.20188) | - | - |
+| 2026 | arXiv | [Acting While Understanding: Asynchronous Semantic-Action Decoupling for Real-Time Vision-Language-Action Models](https://arxiv.org/abs/2606.15285) | - | - |
+| 2026 | arXiv | [UniFS: Unified Fast-to-Slow Hierarchical Architecture for Vision-Language-Action Models](https://arxiv.org/abs/2606.22794) | - | [💻](https://github.com/linsun449/UniFS) |
 
 #### Model Compression
 ![Model_Compression](assets/Model_Compression.png)
