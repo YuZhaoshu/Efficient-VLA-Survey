@@ -116,6 +116,7 @@ Fig. 2: Key strategies for **Efficient Architectures** in VLAs. We illustrate si
 | 2025 | arXiv | [EdgeVLA: Efficient Vision-Language-Action Models](https://arxiv.org/abs/2507.14049) | - | - |
 | 2025 | arXiv | [MiniVLA: A Better VLA with a Smaller Footprint](https://ai.stanford.edu/blog/minivla/) | [🌐](https://ai.stanford.edu/blog/minivla/) | - |
 | 2026 | arXiv | [PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](https://arxiv.org/abs/2604.20834) | [🌐](https://getterupper.github.io/PokeVLA) | - |
+| 2026 | arXiv | [DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation](https://arxiv.org/abs/2601.22153) | [🌐](https://haozhexie.com/project/dynamic-vla) | [💻](https://github.com/hzxie/DynamicVLA) |
 
 ##### Mixture-of-Experts
 | Year | Venue | Paper | Website | Code |
