@@ -74,6 +74,8 @@ Fig. 2: Key strategies for **Efficient Architectures** in VLAs. We illustrate si
 | 2025 | arXiv | [KV-Efficient VLA: A Method of Speed up Vision Language Model with RNN-Gated Chunked KV Cache](https://arxiv.org/abs/2509.21354) | - | - |
 | 2025 | arXiv | [dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought](https://arxiv.org/abs/2509.25681) | - | - |
 | 2025 | arXiv | [Running VLAs at Real-time Speed](https://arxiv.org/abs/2510.26742) | - | [💻](https://github.com/Dexmal/realtime-vla) |
+| 2026 | WWW | [BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Models](https://arxiv.org/abs/2512.11769) | - | [💻](https://github.com/JijiKing-Sam/BLURR-A-Boosted-Low-Resource-Inference-for-Vision-Language-Action-Model) |
+| 2026 | ICML | [Reflex: Real-Time VLA Control through Streaming Inference](https://arxiv.org/abs/2607.14695) | - | [💻](https://github.com/9yc/Reflex) |
 
 
 ##### Transformer Alternatives
