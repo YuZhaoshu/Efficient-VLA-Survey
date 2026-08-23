@@ -190,6 +190,10 @@ Fig. 3: Key strategies for **Model Compression** in VLAs. We illustrate three pr
 | 2025 | arXiv | [KV-Efficient VLA: A Method of Speed up Vision Language Model with RNN-Gated Chunked KV Cache](https://arxiv.org/abs/2509.21354) | - | - |
 | 2025 | arXiv | [Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation](https://arxiv.org/abs/2509.22093) | - | - |
 | 2025 | CoRL | [Focusing on What Matters: Object-Agent-centric Tokenization for Vision Language Action models](https://arxiv.org/abs/2509.23655) | - | - |
+| 2025 | arXiv | [Compressor-VLA: Instruction-Guided Visual Token Compression for Efficient Robotic Manipulation](https://arxiv.org/abs/2511.18950) | - | - |
+| 2025 | arXiv | [Bridging the Semantic-Action Gap in Visual Token Pruning for Efficient VLA Inference](https://arxiv.org/abs/2511.16449) | - | [💻](https://github.com/MINT-SJTU/VLA-Pruner) |
+| 2026 | RA-L | [Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927) | - | [💻](https://github.com/Jasper-aaa/TEAM-VLA) |
+| 2026 | arXiv | [Efficient Long-Horizon Vision-Language-Action Models via Static-Dynamic Disentanglement](https://arxiv.org/abs/2602.03983) | - | - |
 
 ### Efficient Training
 ![Efficient_Training](assets/Efficient_Training.png)
