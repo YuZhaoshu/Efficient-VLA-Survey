@@ -260,6 +260,7 @@ Fig. 4: Key strategies for **Efficient Training** in VLAs, divided into two main
 | 2025 | CoRL | [RICL: Adding In-Context Adaptability to Pre-Trained Vision-Language-Action Models](https://arxiv.org/abs/2508.02062) | [🌐](https://ricl-vla.github.io/) | [💻](https://github.com/ricl-vla/ricl_openpi) |
 | 2025 | arXiv | [Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance](https://arxiv.org/abs/2509.02055) | [🌐](https://align-then-steer.github.io/) | [💻](https://github.com/TeleHuman/Align-Then-Steer) |
 | 2026 | arXiv | [PriorVLA: Prior-Preserving Adaptation for Vision-Language-Action Models](https://arxiv.org/abs/2605.10925) | [🌐](https://priorvla.github.io/) | [💻](https://github.com/xinyuguo1566/PriorVLA) |
+| 2026 | ICRA | [Adaptive Capacity Allocation for Vision Language Action Fine-tuning](https://arxiv.org/abs/2603.07404) | - | [💻](https://github.com/dhkim-furiosa/LoRA-SP) |
 
 ##### RL-Based Method
 | Year | Venue | Paper | Website | Code |
