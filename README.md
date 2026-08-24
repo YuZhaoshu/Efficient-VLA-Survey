@@ -234,6 +234,7 @@ Fig. 4: Key strategies for **Efficient Training** in VLAs, divided into two main
 | 2025 | arXiv | [ReSET: Prepare Before You Act: Learning From Humans to Rearrange Initial States](https://arxiv.org/abs/2509.18043) | [🌐](https://reset2025paper.github.io/) | - |
 | 2025 | arXiv | [LAWM: Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428) | - | - |
 | 2026 | arXiv | [ALAM: Algebraically Consistent Latent Action Model for Vision-Language-Action Models](https://arxiv.org/abs/2605.10819) | - | - |
+| 2026 | arXiv | [Invertible Neural Network Adapter for One-Step Flow Matching in Robot Manipulation](https://arxiv.org/abs/2606.19194) | - | [💻](https://github.com/xzhuzhu/INN-adapter) |
 
 ##### Other Pre-training Strategies
 | Year | Venue | Paper | Website | Code |
@@ -241,6 +242,7 @@ Fig. 4: Key strategies for **Efficient Training** in VLAs, divided into two main
 | 2024 | NeurIPS | [RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation](https://arxiv.org/abs/2406.04339) | [🌐](https://sites.google.com/view/robomamba-web) | [💻](https://github.com/lmzpai/roboMamba) |
 | 2025 | RA-L | [TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2409.12514) | [🌐](https://tiny-vla.github.io/) | [💻](https://github.com/liyaxuanliyaxuan/TinyVLA) |
 | 2026 | CVPR | [Learning to See and Act: Task-Aware Virtual View Exploration for Robotic Manipulation](https://arxiv.org/abs/2508.05186) | [🌐](https://hcplab-sysu.github.io/TAVP/) | [💻](https://github.com/HCPLab-SYSU/TAVP) |
+| 2026 | arXiv | [MotionWAM: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.09215) | [🌐](https://dit4dit.github.io/MotionWAM/) | - |
 
 #### Efficient Post-Training
 
