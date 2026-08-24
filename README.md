@@ -28,7 +28,6 @@ Fig. 1: **The Organization of Our Survey.** We systematically categorize efficie
 ## Table of Contents
 
 - [🔍 Table of Contents](#table-of-contents)
-- [News 🔥](#news-)
 - [🚀Efficient Model Design](#efficient-model-design)
   - [Efficient Architectures](#efficient-architectures)
     - [Efficient Attention](#efficient-attention)
