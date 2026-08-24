@@ -352,4 +352,10 @@ Email: yuzhaoshu@gmail.com
 
 ## Star History
 
-[[![Star History Chart](https://www.star-history.com/?type=date&legend=top-left&repos=YuZhaoshu%2FEfficient-VLAs-Survey)]](https://www.star-history.com/?repos=YuZhaoshu%2FEfficient-VLAs-Survey&type=date&legend=top-left)
+<a href="https://www.star-history.com/?repos=YuZhaoshu%2FEfficient-VLAs-Survey&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=YuZhaoshu/Efficient-VLAs-Survey&type=date&theme=dark&legend=top-left&sealed_token=JtrRiSA8e53tkSVK5idhUgPhND87e-YM_IbUoUwmanrCAblu-MQ0P2kpwj5gZ2qWYxXiA15-thaJiLGmthmWMqYF4MSSbncHVdFJcQp_-gLtuJmX1NCnUHqNOgbceNVY4eIwyRkhWt8XZFlSOcE6NzTnbgNIKKWfk8_26kOkVitNHmKbMeinHH7l1m8R" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=YuZhaoshu/Efficient-VLAs-Survey&type=date&legend=top-left&sealed_token=JtrRiSA8e53tkSVK5idhUgPhND87e-YM_IbUoUwmanrCAblu-MQ0P2kpwj5gZ2qWYxXiA15-thaJiLGmthmWMqYF4MSSbncHVdFJcQp_-gLtuJmX1NCnUHqNOgbceNVY4eIwyRkhWt8XZFlSOcE6NzTnbgNIKKWfk8_26kOkVitNHmKbMeinHH7l1m8R" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=YuZhaoshu/Efficient-VLAs-Survey&type=date&legend=top-left&sealed_token=JtrRiSA8e53tkSVK5idhUgPhND87e-YM_IbUoUwmanrCAblu-MQ0P2kpwj5gZ2qWYxXiA15-thaJiLGmthmWMqYF4MSSbncHVdFJcQp_-gLtuJmX1NCnUHqNOgbceNVY4eIwyRkhWt8XZFlSOcE6NzTnbgNIKKWfk8_26kOkVitNHmKbMeinHH7l1m8R" />
+ </picture>
+</a>
