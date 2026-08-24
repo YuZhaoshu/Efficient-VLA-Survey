@@ -217,8 +217,9 @@ Fig. 4: Key strategies for **Efficient Training** in VLAs, divided into two main
 | 2025 | arXiv | [EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos](https://arxiv.org/abs/2507.12440) | [🌐](https://rchalyang.github.io/EgoVLA/) | - |
 | 2025 | arXiv | [AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation](https://arxiv.org/abs/2507.12768) | - | - |
 | 2025 | arXiv | [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597) | [🌐](https://beingbeyond.github.io/Being-H0/) | [💻](https://github.com/BeingBeyond/Being-H0) |
-| 2026 | ICRA | [RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation](https://arxiv.org/abs/2509.15212) | [🌐](https://huggingface.co/blog/Alibaba-DAMO-Academy/rynnvla-001) | [💻](https://github.com/alibaba-damo-academy/RynnVLA-001) |
 | 2025 | arXiv | [LAWM: Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428) | - | - |
+| 2026 | ICRA | [RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation](https://arxiv.org/abs/2509.15212) | [🌐](https://huggingface.co/blog/Alibaba-DAMO-Academy/rynnvla-001) | [💻](https://github.com/alibaba-damo-academy/RynnVLA-001) |
+| 2026 | ICLR | [TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models](https://arxiv.org/abs/2511.05275) | [🌐](https://jellyho.github.io/TwinVLA/) | [💻](https://github.com/jellyho/TwinVLA) |
 
 ##### Efficient Action Representation
 | Year | Venue | Paper | Website | Code |
