@@ -259,6 +259,7 @@ Fig. 4: Key strategies for **Efficient Training** in VLAs, divided into two main
 | 2026 | ICLR | [InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation](https://arxiv.org/abs/2507.17520) | [🌐](https://yangs03.github.io/InstructVLA_Home/) | [💻](https://github.com/InternRobotics/InstructVLA) |
 | 2025 | CoRL | [RICL: Adding In-Context Adaptability to Pre-Trained Vision-Language-Action Models](https://arxiv.org/abs/2508.02062) | [🌐](https://ricl-vla.github.io/) | [💻](https://github.com/ricl-vla/ricl_openpi) |
 | 2025 | arXiv | [Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance](https://arxiv.org/abs/2509.02055) | [🌐](https://align-then-steer.github.io/) | [💻](https://github.com/TeleHuman/Align-Then-Steer) |
+| 2025 | arXiv | [Towards Accessible Physical AI: LoRA-Based Fine-Tuning of VLA Models for Real-World Robot Control](https://arxiv.org/abs/2512.11921) | - | - |
 | 2026 | arXiv | [PriorVLA: Prior-Preserving Adaptation for Vision-Language-Action Models](https://arxiv.org/abs/2605.10925) | [🌐](https://priorvla.github.io/) | [💻](https://github.com/xinyuguo1566/PriorVLA) |
 | 2026 | ICRA | [Adaptive Capacity Allocation for Vision Language Action Fine-tuning](https://arxiv.org/abs/2603.07404) | - | [💻](https://github.com/dhkim-furiosa/LoRA-SP) |
 
@@ -274,6 +275,7 @@ Fig. 4: Key strategies for **Efficient Training** in VLAs, divided into two main
 | 2026 | ICLR | [SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://arxiv.org/abs/2509.09674) | - | [💻](https://github.com/PRIME-RL/SimpleVLA-RL) |
 | 2025 | arXiv | [World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](https://arxiv.org/abs/2509.24948) | - | - |
 | 2026 | arXiv | [Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models](https://arxiv.org/abs/2605.22896) | - | - |
+| 2026 | arXiv | [RL Token: Bootstrapping Online RL with Vision-Language-Action Models](https://arxiv.org/abs/2604.23073) | [🌐](https://pi.website/research/rlt) | - |
 
 #### Efficient Data Collection
 ![Efficient_Data_Collection](assets/Efficient_Data_Collection.png)
